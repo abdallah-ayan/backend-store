@@ -1,0 +1,7 @@
+{
+    "build": {
+      "env": {
+        "PHP_VERSION": "8.2"
+      }
+    }
+  }
